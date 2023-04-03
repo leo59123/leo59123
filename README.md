@@ -22,9 +22,11 @@
 
 <h1 align="center">
   <a href="https://leo59123.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小Stay Hungry,Stay Foolish!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Hello%2C%20World!%22);StayHungryStayFoolish&center=true&size=27">
   </a>
 </h1>
 
 ## Information
 <div align="center"> <img src="https://metrics.lecoq.io/leo59123?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
+[![leo's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=leo59123&theme=xcode)](https://github.com/leo59123)
