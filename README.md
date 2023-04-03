@@ -2,7 +2,7 @@
 <!--
 **leo59123/leo59123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hello this isleo...
+## Hello this is leo...
 
 🎒I'm currentUy a student at HUST
 
@@ -17,4 +17,5 @@
  
 ![leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo59123&theme=radical&show_icons=true)
 
+## Information
 <div align="center"> <img src="https://metrics.lecoq.io/leo59123?template=classic&config.timezone=Asia%2FShanghai"> </div>
