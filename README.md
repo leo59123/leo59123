@@ -13,9 +13,16 @@
 😄I'm looking to collaborate with active friends to learn awsome things
 
 <!--show most use language -->
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leo59123&theme=react&line_height=40&hide=css"/> </a>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo59123&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
  
-![leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo59123&theme=radical&show_icons=true)
+
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=leo59123" /> </div>
+
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=leo59123&theme=xcode" /> </div>
+
+
+ <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leo59123&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 ## Information
 <div align="center"> <img src="https://metrics.lecoq.io/leo59123?template=classic&config.timezone=Asia%2FShanghai"> </div>
