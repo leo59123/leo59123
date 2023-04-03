@@ -29,4 +29,7 @@
 ## Information
 <div align="center"> <img src="https://metrics.lecoq.io/leo59123?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-[![leo's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=leo59123&theme=xcode)](https://github.com/leo59123)
+
+<div align="center">
+    <img  src="https://visitor-badge.glitch.me/badge?page_id=leo59123" />
+</div>
